@@ -1,0 +1,4 @@
+Requirements:
+
+Python installed
+tkinter (usually included with Python)
